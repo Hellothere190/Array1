@@ -4,11 +4,11 @@ public class product1  {
 
         int pro = 1;
 
-        for(int i=0; i< arr.length;i++){
-            pro=pro*arr[i];
+        for (int i = 0; i < arr.length; i++) {
+            pro = pro * arr[i];
 
-            System.out.println("The pro of the array is ="+pro);
-        }
+        }    System.out.println("The pro of the array is ="+pro);
+
 
     }
 }
